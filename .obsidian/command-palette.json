@@ -1,0 +1,6 @@
+{
+  "pinned": [
+    "google-drive-sync:push",
+    "google-drive-sync:pull"
+  ]
+}
