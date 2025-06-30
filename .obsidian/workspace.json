@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joshua Rapport/templates/TemplateV3.md",
+                "file": "GayKarma/Joshua Rapport/Templates/TemplateV3.md",
                 "mode": "source",
                 "source": false
               },
@@ -140,26 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "4dacf9dddd0374f9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Untitled"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,7 +158,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "google-drive-sync:Push to Google Drive": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,43 +171,43 @@
   },
   "active": "3d5f2544651449c7",
   "lastOpenFiles": [
+    "GayKarma/Joshua Rapport/Templates/TemplateV3.md",
+    "Untitled.md",
     "README.md",
-    "Obsidian_Clean/README.md",
+    "GayKarma/Joshua Rapport/Templates",
+    "GayKarma/Joshua Rapport/2025-06/6-9-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-8-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-7-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-6-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-5-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-3-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-29-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-26-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-24-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-2-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-14-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-13-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-12-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-11-2025.md",
+    "GayKarma/Joshua Rapport/2025-06/6-10-2025.md",
+    "GayKarma/Joshua Rapport/2025-05/5-7-2025.md",
+    "GayKarma/Joshua Rapport/2025-05/5-5-2025.md",
+    "GayKarma/Joshua Rapport/2025-05/5-3-2025.md",
+    "GayKarma/Joshua Rapport/2025-05/5-29-2025.md",
+    "GayKarma/Joshua Rapport/2025-05/5-28-2025.md",
+    "GayKarma/Joshua Rapport/2025-05/5-26-2025.md",
+    "GayKarma/Joshua Rapport/2025-05/5-27-2025.md",
+    "GayKarma/Joshua Rapport/2025-05/5-25-2025.md",
+    "GayKarma/Joshua Rapport/2025-06",
+    "GayKarma/Joshua Rapport/2025-05",
+    "GayKarma/Joshua Rapport",
+    "install_obsidian.sh",
+    "install_obsidian.ps1",
     "Obsidian_Clean/organize_files.sh",
     "Obsidian_Clean/organize_files.py",
     "Obsidian_Clean/link_notes.py",
-    "Obsidian_Clean",
-    "install_obsidian.ps1",
-    "install_obsidian.sh",
-    "hello.md",
-    "Joshua Rapport/templates/TemplateV3.md",
-    "Joshua Rapport/2025-05/5-25-2025.md",
-    "Joshua Rapport/templates",
+    "GayKarma",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "2025-06-30.md",
-    "Joshua Rapport/2025-05/5-2-2025.md",
-    "Joshua Rapport/2025-06/6-9-2025.md",
-    "Joshua Rapport/2025-06/6-5-2025.md",
-    "Joshua Rapport/2025-06/6-8-2025.md",
-    "Joshua Rapport/2025-06/6-7-2025.md",
-    "Joshua Rapport/2025-06/6-6-2025.md",
-    "Joshua Rapport/2025-06/6-3-2025.md",
-    "Joshua Rapport/2025-06/6-29-2025.md",
-    "Joshua Rapport/2025-06/6-26-2025.md",
-    "Joshua Rapport/2025-06/6-24-2025.md",
-    "Joshua Rapport/2025-06/6-2-2025.md",
-    "Joshua Rapport/2025-06/6-14-2025.md",
-    "Joshua Rapport/2025-06/6-12-2025.md",
-    "Joshua Rapport/2025-06/6-11-2025.md",
-    "Joshua Rapport/2025-06/6-13-2025.md",
-    "Joshua Rapport/2025-06/6-10-2025.md",
-    "Joshua Rapport/2025-06",
-    "Joshua Rapport/2025-05/5-7-2025.md",
-    "Joshua Rapport/2025-05/5-5-2025.md",
-    "Joshua Rapport/2025-05/5-3-2025.md",
-    "Joshua Rapport/2025-05/5-29-2025.md",
-    "Joshua Rapport/2025-05",
-    "Joshua Rapport"
+    "Untitled 1.canvas"
   ]
 }
