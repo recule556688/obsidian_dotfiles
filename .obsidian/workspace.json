@@ -179,8 +179,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4182634360c07566",
+  "active": "3d5f2544651449c7",
   "lastOpenFiles": [
+    "README.md",
+    "Obsidian_Clean/README.md",
+    "Obsidian_Clean/organize_files.sh",
+    "Obsidian_Clean/organize_files.py",
+    "Obsidian_Clean/link_notes.py",
+    "Obsidian_Clean",
+    "install_obsidian.ps1",
+    "install_obsidian.sh",
     "hello.md",
     "Joshua Rapport/templates/TemplateV3.md",
     "Joshua Rapport/2025-05/5-25-2025.md",
@@ -209,8 +217,6 @@
     "Joshua Rapport/2025-05/5-5-2025.md",
     "Joshua Rapport/2025-05/5-3-2025.md",
     "Joshua Rapport/2025-05/5-29-2025.md",
-    "Joshua Rapport/2025-05/5-28-2025.md",
-    "Joshua Rapport/2025-05/5-27-2025.md",
     "Joshua Rapport/2025-05",
     "Joshua Rapport"
   ]
